@@ -12,7 +12,7 @@ For Armature generate site Mixamo.com or Armature generation in addon "Mixamo Co
 
 ## 🎯 Quick Start
 
-1. [Download](https://github.com/sergioreoli/mx-hand-pose/releases) the add-on
+1. [Download]([https://github.com/sergioreoli/mx-hand-pose/releases](https://github.com/sergioreoli/Mx-Hand-Pose-V6.1/releases)) the add-on
 2. Install in Blender (`Edit > Preferences > Add-ons > Install`)
 3. Select your armature
 4. Open sidebar (`N`) and go to **"Mx Hand Pose"** tab
