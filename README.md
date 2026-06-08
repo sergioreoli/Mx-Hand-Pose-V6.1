@@ -97,3 +97,44 @@ Copy to your Blender add-ons folder:
 5. Apply wrist rotation
 6. Insert keyframes
 7. Mirror pose for opposite hand
+
+
+🔧 Requirements
+Blender 2.80 or higher
+
+Python 3.x
+
+Armature with finger bones
+
+📖 Documentation
+User Guide
+
+Installation Guide
+
+Developer Guide
+
+API Reference
+
+🤝 Contributing
+Contributions are welcome! See CONTRIBUTING.md
+
+📄 License
+GNU General Public License v3.0
+
+👤 Author
+Sergio ReOli
+
+💬 Support: sergioreoli@hotmail.com
+
+💝 PayPal: sergioreoli@hotmail.com
+
+⭐ Support the Project
+If this add-on helps your workflow, consider:
+
+⭐ Starring the repository
+
+🐛 Reporting issues
+
+💡 Suggesting features
+
+💝 Donating via PayPal
