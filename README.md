@@ -121,20 +121,7 @@ Contributions are welcome! See CONTRIBUTING.md
 📄 License
 GNU General Public License v3.0
 
-👤 Author
+👤 Author and Donate
 Sergio ReOli
-
-💬 Support: sergioreoli@hotmail.com
-
-💝 PayPal: sergioreoli@hotmail.com
-
-⭐ Support the Project
-If this add-on helps your workflow, consider:
-
-⭐ Starring the repository
-
-🐛 Reporting issues
-
-💡 Suggesting features
-
-💝 Donating via PayPal
+Contact: sergioreoli@hotmail.com
+Donate PayPal: sergioreoli@hotmail.com
