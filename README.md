@@ -3,7 +3,7 @@
 
 For Armature generate site Mixamo.com or Armature generation
 in addon "Mixamo Control Rig"
-
+![Animate Bone Tools Interface](screenshots/addon_mx_hand_v6_1.png)
 [![Blender Version](https://img.shields.io/badge/Blender-2.80%2B-orange)](https://www.blender.org/)
 [![License](https://img.shields.io/badge/License-GPL%203.0-blue)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-6.1-green)](https://github.com/sergioreoli/mx-hand-pose)
