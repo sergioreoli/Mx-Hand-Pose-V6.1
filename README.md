@@ -3,8 +3,6 @@
 
 ![MX-Hand-Pose-V.6](/screenshot/addon_mx_hand_pose_v6_panel.png)
 
-![Screenshot da aplicação](https://meusite.com/screenshot.jpg)
-
 For Armature generate site Mixamo.com or Armature generation
 in addon "Mixamo Control Rig"
 [![Blender Version](https://img.shields.io/badge/Blender-2.80%2B-orange)](https://www.blender.org/)
