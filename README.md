@@ -1,7 +1,9 @@
 # Mx Hand Pose V6.1 
 # Add-on for Blender Hand Control Armarture Mixamo
 
-[!MX-Hand-Pose-V.6](/screenshot/addon_mx_hand_pose_v6_panel.png)
+![MX-Hand-Pose-V.6](/screenshot/addon_mx_hand_pose_v6_panel.png)
+
+![Screenshot da aplicação](https://meusite.com/screenshot.jpg)
 
 For Armature generate site Mixamo.com or Armature generation
 in addon "Mixamo Control Rig"
